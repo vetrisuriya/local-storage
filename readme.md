@@ -1,4 +1,3 @@
-Here’s a suggested README content for your PHP local storage project, based on the file structure and typical usage:
 
 ---
 
