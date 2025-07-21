@@ -82,5 +82,3 @@ local-storage/
 This project is open-source and available under the MIT License.
 
 ---
-
-Let me know if you want to include more specific usage examples or details!
